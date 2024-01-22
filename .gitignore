@@ -1,3 +1,4 @@
 .idea
 odoo-helper.conf
 odoo/*
+data/*
